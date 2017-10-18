@@ -1,0 +1,17 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "a design idea",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design"
+  ],
+  "author": "trevor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
